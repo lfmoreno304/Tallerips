@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\Acer\Documents\Universidad\Programacion WEB\Taller ips\Entity\obj\Debug\netstandard2.0\Entity.pdb
